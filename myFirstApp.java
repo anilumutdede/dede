@@ -2,7 +2,7 @@ package pl.pp;
 
 import java.util.Scanner;
 
-public class mySecondApp {
+public class MyFirstApp {
     public static void main(String[] args) {
         double x = 10;
         double y = 2;
